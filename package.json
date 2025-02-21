@@ -1,0 +1,24 @@
+{
+  "name": "ultralytics",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <p>\r     <a href=\"https://www.ultralytics.com/events/yolovision\" target=\"_blank\">\r       <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"YOLO Vision banner\"></a>\r   </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultralytics/ultralytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultralytics/ultralytics/issues"
+  },
+  "homepage": "https://github.com/ultralytics/ultralytics#readme"
+}
